@@ -21,6 +21,8 @@ This game is not compatible with the ti83, ti84+CSE, or ti84+CE calculators.
 
 If you do not have a calculator, there are several PC, javascript, and android based calculator emulators available that should run this fine. Wabbitemu, jsTIfied, and TilEm are all good options.
 
+![animated screenshot](/screenshot.gif)
+
 # Installation
 
 Send the app Bentcher.8xk (app) or the program BENTCHER.8xp (mirage os) to your calculator using TI-Connect or TiLP.
@@ -28,17 +30,19 @@ Send the app Bentcher.8xk (app) or the program BENTCHER.8xp (mirage os) to your 
 # Controls
 
 In menu:
-up /down	change selection
-2nd/Enter	chose selection
-Clear		quit or back
+
+- `Up`/`Down`	change selection
+- `2nd`/`Enter`	chose selection
+- `Clear`		quit or back
 
 In text:
-Enter		Next page
-left/right	Change paragraph
-Up/down		Change section
-+/-		Change contrast
-^		invert screen
-//*		Change font size
+
+- `Enter`		Next page
+- `Left`/`Right`	Change paragraph
+- `Up`/`Down`		Change section
+- `+`/`-`		Change contrast
+- `^`		invert screen
+- `/`/`*`		Change font size
 
 # Source Code
 
